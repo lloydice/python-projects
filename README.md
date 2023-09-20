@@ -25,6 +25,3 @@ Si no deseas instalar nada en tu máquina, no te preocupes, puedes utilizar ento
 Te recomiendo utilizar [Anaconda Cloud](https://anaconda.cloud/) ☜(ﾟヮﾟ☜) que descargas aquí.
 
 Y bien... Así de facíl, los archivos que encontraras en este repositorio te ayudaran a comprender los conceptos básicos para comenzar a aprender del mundo de la programación. 😁
-
-
-Puedes comenzar aquí: [Mi primer programa]([https://www.example.com](https://github.com/lloydice/python-projects/tree/main/Starting)https://github.com/lloydice/python-projects/tree/main/Starting)
