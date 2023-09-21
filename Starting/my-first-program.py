@@ -35,6 +35,9 @@ print('I\'m learning python \nI\'m very happy!')
    
    - La '\n' también es una secuencia de escape que representa un carácter de nueva línea. 
    Se utiliza para insertar un salto de línea en la cadena, haciendo que el texto que viene después se muestre en una nueva línea.
-   Y eso es todo :D
-   
+   Y eso es todo :D 
+
+   *Solo en esta ocasión veras un montón de comentarios de esta forma, 
+   para próximas explicaciones tendrás archivos .md y .py con el código separado para no hacer tedioso tu aprendizaje. 
+
 '''
