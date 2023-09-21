@@ -11,4 +11,30 @@
 #   La función 'print' es una herramienta útil para mostrar información mientras se ejecuta un programa.
 #   Se puede utilizar para imprimir variables, mensajes o cualquier otro dato que quieras ver durante la ejecución de tu código.
 
+# Esto es tu primer código
 print('Hello World!')
+
+#Tomando en cuenta esto haremos un pequeño ejemplo
+#Escribe un programa con la función print() que muestre la siguiente sálida
+#I'm learning Python
+#I'm very happy!
+#Además, agrega la segunda palabra a una segunda línea
+
+#Esto es tu segundo código
+print('I\'m learning python \nI\'m very happy!')
+
+# Estos son comentarios en una linea multiple hecha con 3 comillas consecutivas y cerrada con 3 comillas consecutivas
+'''
+1. Como se mencionó anteriormente, 'print' es una función incorporada en Python que le permite mostrar la salida en la consola o terminal.
+
+2. ¡Estoy aprendiendo python, estoy muy contento! Esta es una cadena literal encerrada entre comillas simples. 
+    La barra invertida ('\') antes del apóstrofo ("'") en 'I'm' es un carácter de escape. 
+    Se utiliza para indicar que el carácter siguiente debe tratarse como un carácter literal 
+    y no como parte de la sintaxis de la cadena. En este caso, la barra invertida permite incluir el apóstrofo en la cadena 
+    sin provocar un error de sintaxis.
+   
+   - La '\n' también es una secuencia de escape que representa un carácter de nueva línea. 
+   Se utiliza para insertar un salto de línea en la cadena, haciendo que el texto que viene después se muestre en una nueva línea.
+   Y eso es todo :D
+   
+'''
