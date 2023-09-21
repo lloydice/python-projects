@@ -13,7 +13,7 @@
 
 Además necesitas de un IDE, yo recomiendo Anaconda Navigator para iniciar tu viaje. 
 
-2. Instala Anaconda Navigator aquí
+2. Instala Anaconda Navigator
 
 Puedes descargarlo aquí: (☞ﾟヮﾟ)☞ [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator)
 
@@ -22,6 +22,6 @@ Puedes descargarlo aquí: (☞ﾟヮﾟ)☞ [Anaconda Navigator](https://anacond
 Python IDE + Python interpreter = (❁´◡`❁)
 
 Si no deseas instalar nada en tu máquina, no te preocupes, puedes utilizar entornos online para comenzar a aprender a programar. 
-Te recomiendo utilizar [Anaconda Cloud](https://anaconda.cloud/) ☜(ﾟヮﾟ☜) que descargas aquí.
+Te recomiendo utilizar [Anaconda Cloud](https://anaconda.cloud/) ☜(ﾟヮﾟ☜) aquí ingresas facilmente.
 
 Y bien... Así de facíl, los archivos que encontraras en este repositorio te ayudaran a comprender los conceptos básicos para comenzar a aprender del mundo de la programación. 😁
