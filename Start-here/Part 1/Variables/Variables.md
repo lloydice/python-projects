@@ -1,3 +1,5 @@
+# Variables6
+
 Muy bien, para evitar llenar el código con un montón de comentarios utilizaremos los archivos con extensión .md para explicarte el programa.
 Si quieres hacer el programa con la explicación antes de continuar y copiar el código, termina de leer este documento y comienza a programar después, continuemos.
 
