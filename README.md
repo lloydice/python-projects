@@ -1,5 +1,5 @@
 # Python-projects
-## by Eduardo Guzman
+## by Eduardo Guzman - DevUps! en entrenamiento.
 
 
 ╰(*°▽°*)╯ A lot of files to learn Python from 0, explained in detail.
