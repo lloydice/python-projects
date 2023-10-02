@@ -28,5 +28,6 @@ Y vamos a imprimir la lista después de esta operación.
 `print(phone_ratings)`
 Y ahora puedes ver un nuevo valor nueve en el índice, uno entre los antiguos valores de ocho y siete de la lista original.
 > [8, 9, 7, 6, 3, 5]
+
 Esta invocación al método añade el valor de nueve indicandole en que parte del indice deseas introducir el valor todos los demás valores se desplazan
 a la derecha para hacer sitio a este nuevo valor.
